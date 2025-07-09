@@ -61,3 +61,12 @@ input, select {
 .navbar:hover {
     background-color: rgba(210, 1, 36, 0.9) !important; 
 }
+
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: #d4a9a9;
+    text-align: right;
+}
