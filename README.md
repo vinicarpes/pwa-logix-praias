@@ -1,13 +1,13 @@
-## Logix Praias - PWA
+# Logix Praias - PWA
 
-# Sobre
+## Sobre
 Este projeto foi desenvolvido como projeto final da disciplina de Programação para dispositivos móveis do curso técnico em desenvolvimento de sistemas do IFSC no semestre de 2025.1
 
-# Link de acesso
+## Link de acesso
 
 Você pode acessar a aplicação pelo link https://vinicarpes.github.io/pwa-logix-praias/ ou rodar na sua máquina
 
-# Passo a passo para rodar localmente
+## Passo a passo para rodar localmente
 
 1. Faça um clone do repositório usando o comando no CMD ou git Bash:
 
