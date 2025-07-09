@@ -11,11 +11,11 @@ Você pode acessar a aplicação pelo link https://vinicarpes.github.io/pwa-logi
 
 1. Faça um clone do repositório usando o comando no CMD ou git Bash:
 
-     git clone https://github.com/vinicarpes/pwa-logix-praias.git
+          git clone https://github.com/vinicarpes/pwa-logix-praias.git
 
 2. Abra o arquivo no Vs Code ou sua IDE de escolha
 
-     cd pwa-logix-praias
+          cd pwa-logix-praias
 
         code .
 
