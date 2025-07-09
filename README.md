@@ -15,8 +15,8 @@ Você pode acessar a aplicação pelo link https://vinicarpes.github.io/pwa-logi
 
 2. Abra o arquivo no Vs Code ou sua IDE de escolha
 
-          cd pwa-logix-praias
+             cd pwa-logix-praias
 
-        code .
+             code .
 
 4. Rode a aplicação
